@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**RaiDeiNz/RaiDeiNz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Welcome to `RaiDeiNz`'s Profile :vulcan_salute:
+:point_right: | I prepare my education for career transition by turning the pandemic period into an opportunity and attending conferences and panels presented by the top executives of the companies. I am careful not to spread information to the environment, you can reach me on LinkedIn. |  :point_left:
+--|--|--
+ 
+```C
+#include My profile to your scope!
+```
+#### :detective: I'm also around
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-raşit-deniz-866299200) | [![Twitch Badge](https://img.shields.io/twitch/status/rasitdenis?color=red&label=Twitch&logo=Twitch&logoColor=purple&style=for-the-badge)](https://www.twitch.tv/rasitdenis) | [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Learning-important)](https://tryhackme.com/p/RaiDeiN)
+--|--|--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![RaiDeiNz's github stats](https://github-readme-stats.vercel.app/api?username=RaiDeiNz&show_icons=true&theme=tokyonight)
