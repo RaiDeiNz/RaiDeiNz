@@ -12,4 +12,4 @@
 --|--|--
 
 
-![RaiDeiNz's github stats](https://github-readme-stats.vercel.app/api?username=RaiDeiNz&show_icons=true&theme=tokyonight)
+![RaiDeiNz's github stats](https://github-readme-stats.vercel.app/api?username=RaiDeiNz&show_icons=true&theme=tokyonight) ![rasitdenis_nametag2](https://user-images.githubusercontent.com/51806116/102614026-8cc16c00-4144-11eb-8d63-0b393adac0c3.png)
