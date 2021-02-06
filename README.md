@@ -9,7 +9,7 @@
 ```
 
 #### :detective: I'm also around
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-raşit-deniz-866299200) | [![Twitch Badge](https://img.shields.io/twitch/status/rasitdenis?color=red&label=Twitch&logo=Twitch&logoColor=purple&style=for-the-badge)](https://www.twitch.tv/rasitdenis) | [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Learning%20now..-yellow?style=for-the-badge&logo=TryHackMe)](https://tryhackme.com/p/RaiDeiN) | [![Lichess Badge](https://img.shields.io/badge/Lichess.org-;-lightgrey?style=for-the-badge&logo=Lichess)](https://lichess.org/streamer/raideinz)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-rasit-deniz/) | [![Twitch Badge](https://img.shields.io/twitch/status/rasitdenis?color=red&label=Twitch&logo=Twitch&logoColor=purple&style=for-the-badge)](https://www.twitch.tv/rasitdenis) | [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Learning%20now..-yellow?style=for-the-badge&logo=TryHackMe)](https://tryhackme.com/p/RaiDeiN) | [![Lichess Badge](https://img.shields.io/badge/Lichess.org-;-lightgrey?style=for-the-badge&logo=Lichess)](https://lichess.org/streamer/raideinz)
 --|--|--|--
 
 
