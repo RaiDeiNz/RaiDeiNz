@@ -13,7 +13,8 @@
 --|--|--|--
 
 
-![RaiDeiNz's github stats](https://github-readme-stats.vercel.app/api?username=RaiDeiNz&show_icons=true&theme=tokyonight) | ![rasitdenis_nametag2](https://user-images.githubusercontent.com/51806116/102614026-8cc16c00-4144-11eb-8d63-0b393adac0c3.png) | 
+![RaiDeiNz's github stats](https://github-readme-stats.vercel.app/api?username=RaiDeiNz&show_icons=true&theme=tokyonight) | ![0xr41d31nz_nametag](https://user-images.githubusercontent.com/51806116/116794468-cb453b00-aad5-11eb-9ea1-5f76a1841d2d.png) | 
+
 --|--
 
 <hr>
