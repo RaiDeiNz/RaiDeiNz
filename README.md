@@ -5,7 +5,7 @@
 --|--|--
  
 ```C
-/*Decision in the absolute is :*/
+//Decision in the absolute is :
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
